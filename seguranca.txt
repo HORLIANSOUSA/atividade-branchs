@@ -1,0 +1,2 @@
+Funcionalidade: segurança de acesso.
+Proteções disponíveis: senha forte e autenticação em dois fatores.
