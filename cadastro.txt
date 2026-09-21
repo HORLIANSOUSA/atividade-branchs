@@ -1,0 +1,2 @@
+Funcionalidade: cadastro de usuários.
+Validação: nome, e-mail e senha são obrigatórios.
