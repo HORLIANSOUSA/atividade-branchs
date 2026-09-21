@@ -1,0 +1,1 @@
+Funcionalidade: segurança de acesso.
