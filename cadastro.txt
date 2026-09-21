@@ -1,2 +1,3 @@
 Funcionalidade: cadastro de usuários.
-Validação: nome, e-mail e senha são obrigatórios.
+Correção do bug: o cadastro agora rejeita campos vazios antes do envio.
+Validação: nome, e-mail e senha são obrigatórios e não podem conter apenas espaços.
