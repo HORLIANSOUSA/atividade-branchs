@@ -1,0 +1,2 @@
+Funcionalidade: geração de relatórios.
+Formatos disponíveis: PDF e CSV.
