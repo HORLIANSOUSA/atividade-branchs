@@ -1,2 +1,3 @@
 Funcionalidade: pesquisa de registros.
+Correção do bug: a pesquisa agora ignora filtros vazios e combina apenas critérios preenchidos.
 Filtros disponíveis: nome, categoria e data.
