@@ -1,0 +1,2 @@
+Funcionalidade: notificações de eventos.
+Canais disponíveis: e-mail e painel da aplicação.
