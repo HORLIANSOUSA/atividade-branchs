@@ -1,2 +1,3 @@
 Funcionalidade: processamento de pagamentos.
-Métodos disponíveis: cartão e boleto.
+Correção do bug: o método de pagamento agora é conferido antes do processamento.
+Métodos disponíveis: cartão e boleto; qualquer outro método deve ser recusado.
