@@ -1,0 +1,1 @@
+Funcionalidade: notificações de eventos.
